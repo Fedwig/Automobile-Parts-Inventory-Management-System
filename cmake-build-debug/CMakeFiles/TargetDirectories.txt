@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/ICP_DARRSHAN RAJENDERAN_TP060967/cmake-build-debug/CMakeFiles/DARRSHAN_RAJENDERAN_TP060967.dir
+C:/Users/user/CLionProjects/ICP_DARRSHAN RAJENDERAN_TP060967/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/ICP_DARRSHAN RAJENDERAN_TP060967/cmake-build-debug/CMakeFiles/rebuild_cache.dir

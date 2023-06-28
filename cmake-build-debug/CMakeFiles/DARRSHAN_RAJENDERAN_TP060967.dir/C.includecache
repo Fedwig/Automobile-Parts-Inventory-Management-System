@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/user/CLionProjects/ICP_DARRSHAN RAJENDERAN_TP060967/APIMS.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+stdbool.h
+-
+unistd.h
+-
+ctype.h
+-
+

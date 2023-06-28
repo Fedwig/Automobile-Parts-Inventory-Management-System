@@ -1,0 +1,14 @@
+
+Engine:BZ0:5:Low Stock
+
+Brakes:BZ1:40:Sufficient Stock
+
+Body:BZ2:40:Sufficient Stock
+
+Battery:BZ3:30:Sufficient Stock
+
+Radiator:BZ4:5:Low Stock
+
+Axle:BZ5:8:Low Stock
+
+Headlights:BZ6:20:Sufficient Stock
