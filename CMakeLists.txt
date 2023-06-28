@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(DARRSHAN_RAJENDERAN_TP060967 C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(DARRSHAN_RAJENDERAN_TP060967 APIMS.c)

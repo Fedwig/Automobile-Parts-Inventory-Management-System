@@ -1,0 +1,12 @@
+
+Engine:AR0:5:Low Stock
+
+Brakes:AR1:40:Sufficient Stock
+
+Body:AR2:40:Sufficient Stock
+
+Battery:AR3:30:Sufficient Stock
+
+Radiator:AR4:5:Low Stock
+
+Axle:AR5:8:Low Stock
